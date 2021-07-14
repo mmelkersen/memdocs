@@ -131,3 +131,7 @@ Intune leverages Google Firebase Cloud Messaging (FCM) for push notification to 
 ## Endpoint analytics
 
 For more information on the required endpoints for endpoint analytics, see [Endpoint analytics proxy configuration](../../analytics/troubleshoot.md#bkmk_endpoints).
+
+## Expedite updates
+
+For more information on the required endpoints for expedite updates, see [Expedite updates](https://docs.microsoft.com/en-us/mem/intune/protect/windows-10-expedite-updates#prerequisites).
