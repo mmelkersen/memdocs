@@ -76,6 +76,10 @@ When renaming a Windows device, the new name must follow these rules:
 - No spaces in the name
 - Disallowed characters: { | } ~ [ \ ] ^ ' : ; < = > ? & @ ! " # $ % ` ( ) + / , . _ *)
 
+> [!NOTE]
+> This is only supported for Azure AD Joined only devices. Trying to rename a hybrid object will break the connection to ADDS.
+
+
 ## Bulk rename devices
 
 You can choose to rename devices in bulk, based on the device platform. The bulk rename option uses the same rules as renaming a single device. However, you must also include one of the following variables as part of the device name:
